@@ -1,7 +1,11 @@
 # Focused Ultrasound Neuromodulation for HOMA-IR Normalization
+
+---
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21708570.svg)](https://doi.org/10.5281/zenodo.21708570) ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
 ![Monte Carlo Summary](figures/monte_carlo_summary_n500.png)
+
+---
 
 ## Overview
 This repository contains the computational propagation models, Monte Carlo statistical analysis ($N=500$), and Pharmacokinetic/Pharmacodynamic (PK/PD) differential kinetics for non-invasive focused ultrasound neuromodulation. The study evaluates therapeutic efficacy and acoustic safety margins in modulating metabolic parameters—specifically normalizing insulin resistance (HOMA-IR) over a 30-day intervention.
