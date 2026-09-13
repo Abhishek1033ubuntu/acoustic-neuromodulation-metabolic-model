@@ -1,7 +1,6 @@
 # Focused Ultrasound Neuromodulation for HOMA-IR Normalization
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21708570.svg)](https://doi.org/10.5281/zenodo.21708570) 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21708570-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.21708570)
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
 
